@@ -5,5 +5,4 @@
  * 
  */
 module lesson9 {
-    
 }
